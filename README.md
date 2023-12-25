@@ -1,3 +1,4 @@
+![logo](https://github.com/AdarshPatil42/AdarshPatil42/blob/main/Banner.webp)
 <h1 align="center">Hi 👋, I'm Adarsh Patil</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
 <img align="right" alt="coding" src="https://camo.githubusercontent.com/4592034aa2947db1214599a3079a27a8ae0e41552bdf88736c634e3fef5360c9/68747470733a2f2f7777772e6161676e69612e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f31322f33393939382d7765622d646576656c6f706d656e742e676966">
